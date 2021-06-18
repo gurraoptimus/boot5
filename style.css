@@ -27,6 +27,17 @@ color: #222;
  transform: traslateY(-50%);
 }
 
+.carousel-caption h1{
+ font-size: 500%;
+ text-transform: uppercase;
+ text-shadow: 1px 1px 10px #000;
+}
+.carousel-caption h3{
+
+}
+
+
+
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
