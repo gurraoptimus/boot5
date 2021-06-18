@@ -38,7 +38,36 @@ color: #222;
  text-shadow: 1px 1px 10px #000;
  padding-bottom: 1rem;
 }
+.btn-primary{
+ background-color: #6648b1;
+ border: 1px solid #6648b1;
+}
+.btn-primary:hover{
+ background-color: #563d7c;
+ border: 1px solid #563d7c;
+}
 
+.jumbotron{
+ padding: 1rem;
+ border-radius: 0;
+}
+.padding{
+ padding-bottom: 2rem;
+}
+.welcome{
+ width: 75%;
+ margin: 0 auto;
+ padding-top: 2rem;
+}
+.welcome hr{
+ border-top: 2px solid #b4b4b4;
+ width: 95%;
+ margin-top: .3rem;
+ margin-bottom: 1rem;
+}
+.fa-code{
+
+}
 
 
 /*---Media Queries --*/
