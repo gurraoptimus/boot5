@@ -93,7 +93,7 @@ color: #222;
  color #3b5998;
 }
 .fa-twitter{
- color #00aced
+ color #00aced;
 }
 .fa-google-plus-g{
  color #dd4b39;
@@ -104,10 +104,13 @@ color: #222;
 .fa-youtube{
  color #bb0000;
 }
-
-
-
-
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-google-plus-g:hover,
+.fa-instagram:hover,
+.fa-youtube:hover,{
+ color #d5d5d5;
+}
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
