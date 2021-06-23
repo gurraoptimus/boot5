@@ -66,18 +66,27 @@ color: #222;
  margin-bottom: 1rem;
 }
 .fa-code{
-color: #e54d26;
+ color: #e54d26;
 }
 .fa-bold{
-color: #563d7c;
+ color: #563d7c;
 }
 .fa-css3{
-color: #2163af;
+ color: #2163af;
 }
 .fa-code, .fa-bold, .fa-css3{
  font-size: 4em;
  margin: 1rem;
 }
+.fun{
+ width: 100%;
+ margin-bottom: 2rem;
+}
+
+.gif{
+
+}
+
 
 
 
