@@ -34,7 +34,7 @@ color: #222;
 }
 .carousel-caption h3{
  font-size: 200%;
- font-weight 500;
+ font-weight: 500;
  text-shadow: 1px 1px 10px #000;
  padding-bottom: 1rem;
 }
@@ -108,11 +108,23 @@ color: #222;
 .fa-twitter:hover,
 .fa-google-plus-g:hover,
 .fa-instagram:hover,
-.fa-youtube:hover,{
+.fa-youtube:hover{
  color: #d5d5d5;
 }
-
-
+footer{
+ background-color: #3f3f3f;
+ color: #d5d5d5;
+ padding-top: 2rem;
+}
+hr.light{
+ border-top: 1px solid #d5d5d5;
+ width: 75%;
+ margin-top: .8rem;
+ margin-bottom: 1rem;
+}
+footer a{
+ color: #d5d5d5;
+}
 
 
 
