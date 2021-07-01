@@ -180,7 +180,7 @@ border-top: 1px solid #d5d5d5;
   padding: 4px 8px; 
 }
 .carousel-indicators{
-  dis
+  display: none;
   }
 }  
 /*---Firefox Bug Fix --*/
