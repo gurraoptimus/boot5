@@ -179,9 +179,10 @@ border-top: 1px solid #d5d5d5;
   font-size: 90%;
   padding: 4px 8px; 
 }
-.carousel-
-
-  
+.carousel-indicators{
+  dis
+  }
+}  
 /*---Firefox Bug Fix --*/
 .carousel-item {
   transition: -webkit-transform 0.5s ease;
