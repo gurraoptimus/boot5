@@ -156,7 +156,13 @@ border-top: 1px solid #d5d5d5;
   font-size: 95%;
   padding: 8px 14px;
 }
-.
+.display-4{
+  font-size: 200%;
+}
+     .social a{
+ font-size: 2.5em;
+ padding: 1.2rem;
+  }      
 }
 @media (max-width: 576px) {
   
