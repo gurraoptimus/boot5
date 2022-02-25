@@ -1,3 +1,2 @@
 # Responsive Bootstrap Website Start To Finish with Bootstrap 4, HTML5 & CSS3
-
-# https://youtu.be/9cKsq14Kfsw
+[![Setup Video](https://img.youtube.com/vi/9cKsq14Kfsw/maxresdefault.jpg)](https://www.youtube.com/watch?v=_9cKsq14Kfsw "Responsive Bootstrap Website Start To Finish with Bootstrap 4, HTML5 & CSS3")
